@@ -1,0 +1,4 @@
+Attendance Report
+Total Members: 100
+Present: 90
+Absent: 10
